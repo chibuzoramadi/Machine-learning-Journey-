@@ -39,10 +39,3 @@ Welcome to my Machine Learning Project Portfolio! This repository contains a col
 9. **Variational Autoencoders (VAEs) for Latent Space Representation**
    - **Summary:** Built a VAE model to learn efficient representations of data by mapping inputs into a continuous latent space. The project focused on generating and reconstructing data through latent space manipulations.
    - **Key Techniques:** VAE, Latent Space, Encoder-Decoder.
-
-## Getting Started
-
-To explore the projects, clone this repository and navigate to each project folder. Each folder contains detailed instructions, code, and data requirements necessary to replicate the results.
-
-```bash
-git clone https://github.com/your-username/machine-learning-portfolio.git
